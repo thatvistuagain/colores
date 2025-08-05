@@ -6,7 +6,7 @@
       227,
       273
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       0,
       30,
@@ -41,7 +41,7 @@
       264,
       342
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       0,
       35,
@@ -70,7 +70,7 @@
       165,
       231
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       10,
       32,
@@ -96,7 +96,7 @@
       125,
       308
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       18,
       31,
@@ -129,7 +129,7 @@
       285,
       321
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       8,
       30,
@@ -156,7 +156,7 @@
       320,
       332
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       0,
       55,
@@ -180,7 +180,7 @@
     "combinations": [
       240
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       0,
       53,
@@ -213,7 +213,7 @@
       315,
       341
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       0,
       62,
@@ -250,7 +250,7 @@
       327,
       336
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       0,
       63,
@@ -280,7 +280,7 @@
       224,
       277
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       0,
       70,
@@ -307,7 +307,7 @@
       260,
       265
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       15,
       70,
@@ -327,11 +327,11 @@
     "hex": "#d46d7a"
   },
   {
-    "name": "Eugenia Red | A",
+    "name": "Eugenia Red",
     "combinations": [
       284
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       7,
       76,
@@ -351,7 +351,7 @@
     "hex": "#e2625e"
   },
   {
-    "name": "Eugenia Red | B",
+    "name": "Eugenia Red (bis)",
     "combinations": [
       17,
       77,
@@ -362,7 +362,7 @@
       282,
       325
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       0,
       80,
@@ -404,7 +404,7 @@
       319,
       327
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       18,
       58,
@@ -430,7 +430,7 @@
       85,
       244
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       17,
       72,
@@ -457,7 +457,7 @@
       216,
       219
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       2,
       83,
@@ -484,7 +484,7 @@
       301,
       322
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       5,
       100,
@@ -512,7 +512,7 @@
       241,
       264
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       9,
       90,
@@ -542,7 +542,7 @@
       185,
       275
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       16,
       80,
@@ -574,7 +574,7 @@
       333,
       343
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       22,
       76,
@@ -599,7 +599,7 @@
       199,
       283
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       18,
       73,
@@ -625,7 +625,7 @@
       308,
       332
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       10,
       95,
@@ -656,7 +656,7 @@
       307,
       313
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       0,
       100,
@@ -681,7 +681,7 @@
       299,
       331
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       12,
       89,
@@ -710,7 +710,7 @@
       277,
       346
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       30,
       90,
@@ -735,7 +735,7 @@
       220,
       271
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       23,
       100,
@@ -759,7 +759,7 @@
     "combinations": [
       142
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       38,
       90,
@@ -787,7 +787,7 @@
       322,
       328
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       22,
       84,
@@ -822,7 +822,7 @@
       245,
       338
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       25,
       95,
@@ -851,7 +851,7 @@
       311,
       324
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       18,
       97,
@@ -876,7 +876,7 @@
       251,
       261
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       30,
       100,
@@ -903,7 +903,7 @@
       145,
       161
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       35,
       74,
@@ -923,7 +923,7 @@
     "hex": "#7c4226"
   },
   {
-    "name": "Hay's Russet",
+    "name": "Hay’s Russet",
     "combinations": [
       58,
       82,
@@ -937,7 +937,7 @@
       336,
       345
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       37,
       85,
@@ -965,7 +965,7 @@
       316,
       335
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       32,
       95,
@@ -990,7 +990,7 @@
       157,
       273
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       34,
       100,
@@ -1021,7 +1021,7 @@
       269,
       283
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       25,
       90,
@@ -1045,7 +1045,7 @@
     "combinations": [
       9
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       75,
       100,
@@ -1074,7 +1074,7 @@
       290,
       337
     ],
-    "swatch": 0,
+    "index-chapter": 1,
     "cmyk": [
       40,
       71,
@@ -1115,7 +1115,7 @@
       321,
       326
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       4,
       4,
@@ -1157,7 +1157,7 @@
       292,
       336
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       0,
       4,
@@ -1186,7 +1186,7 @@
       303,
       325
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       2,
       7,
@@ -1225,7 +1225,7 @@
       301,
       343
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       8,
       15,
@@ -1257,7 +1257,7 @@
       276,
       334
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       0,
       19,
@@ -1281,7 +1281,7 @@
     "combinations": [
       317
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       0,
       25,
@@ -1313,7 +1313,7 @@
       305,
       310
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       5,
       32,
@@ -1345,7 +1345,7 @@
       323,
       344
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       0,
       25,
@@ -1382,7 +1382,7 @@
       329,
       342
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       0,
       28,
@@ -1415,7 +1415,7 @@
       309,
       315
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       2,
       42,
@@ -1445,7 +1445,7 @@
       279,
       299
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       4,
       40,
@@ -1478,7 +1478,7 @@
       296,
       339
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       15,
       38,
@@ -1505,7 +1505,7 @@
       241,
       292
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       15,
       28,
@@ -1529,7 +1529,7 @@
     "combinations": [
       282
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       5,
       26,
@@ -1557,7 +1557,7 @@
       330,
       348
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       16,
       6,
@@ -1588,7 +1588,7 @@
       317,
       327
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       20,
       25,
@@ -1619,7 +1619,7 @@
       295,
       313
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       0,
       0,
@@ -1657,7 +1657,7 @@
       317,
       333
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       5,
       0,
@@ -1690,7 +1690,7 @@
       305,
       319
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       0,
       10,
@@ -1717,7 +1717,7 @@
       255,
       287
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       23,
       25,
@@ -1747,7 +1747,7 @@
       249,
       278
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       18,
       26,
@@ -1778,7 +1778,7 @@
       222,
       325
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       12,
       28,
@@ -1809,7 +1809,7 @@
       286,
       338
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       0,
       33,
@@ -1846,7 +1846,7 @@
       319,
       335
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       0,
       45,
@@ -1873,7 +1873,7 @@
       309,
       328
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       0,
       55,
@@ -1903,7 +1903,7 @@
       256,
       272
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       0,
       68,
@@ -1934,7 +1934,7 @@
       326,
       340
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       0,
       80,
@@ -1962,7 +1962,7 @@
       308,
       339
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       13,
       73,
@@ -1992,7 +1992,7 @@
       204,
       206
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       20,
       60,
@@ -2018,7 +2018,7 @@
       102,
       222
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       18,
       65,
@@ -2046,7 +2046,7 @@
       160,
       252
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       24,
       32,
@@ -2074,7 +2074,7 @@
       236,
       248
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       24,
       45,
@@ -2105,7 +2105,7 @@
       305,
       323
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       35,
       17,
@@ -2133,12 +2133,12 @@
       133,
       262
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       36,
       32,
       100,
-      0
+      7
     ],
     "lab": [
       65.5588616769665,
@@ -2159,7 +2159,7 @@
       177,
       233
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       42,
       40,
@@ -2186,7 +2186,7 @@
       274,
       304
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       38,
       34,
@@ -2211,7 +2211,7 @@
       107,
       184
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       43,
       36,
@@ -2235,7 +2235,7 @@
     "combinations": [
       29
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       48,
       35,
@@ -2265,7 +2265,7 @@
       310,
       334
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       48,
       38,
@@ -2290,7 +2290,7 @@
       212,
       342
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       28,
       48,
@@ -2316,7 +2316,7 @@
       214,
       273
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       25,
       60,
@@ -2343,7 +2343,7 @@
       270,
       297
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       56,
       40,
@@ -2368,7 +2368,7 @@
       199,
       318
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       42,
       46,
@@ -2393,7 +2393,7 @@
       146,
       343
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       50,
       48,
@@ -2421,7 +2421,7 @@
       234,
       296
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       46,
       63,
@@ -2446,7 +2446,7 @@
       24,
       288
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       48,
       60,
@@ -2476,7 +2476,7 @@
       275,
       323
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       36,
       88,
@@ -2500,7 +2500,7 @@
     "combinations": [
       19
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       39,
       76,
@@ -2529,7 +2529,7 @@
       192,
       328
     ],
-    "swatch": 1,
+    "index-chapter": 2,
     "cmyk": [
       56,
       71,
@@ -2568,7 +2568,7 @@
       317,
       346
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       29,
       0,
@@ -2597,7 +2597,7 @@
       239,
       260
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       30,
       9,
@@ -2622,7 +2622,7 @@
       264,
       311
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       30,
       15,
@@ -2650,7 +2650,7 @@
       326,
       334
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       35,
       0,
@@ -2678,7 +2678,7 @@
       311,
       346
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       26,
       5,
@@ -2705,7 +2705,7 @@
       158,
       326
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       52,
       0,
@@ -2732,7 +2732,7 @@
       265,
       347
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       40,
       30,
@@ -2757,7 +2757,7 @@
       293,
       312
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       57,
       28,
@@ -2782,7 +2782,7 @@
       244,
       346
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       60,
       40,
@@ -2810,12 +2810,12 @@
       266,
       301
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       42,
       20,
       62,
-      10
+      28
     ],
     "lab": [
       63.738460364690624,
@@ -2837,7 +2837,7 @@
       219,
       283
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       50,
       16,
@@ -2862,7 +2862,7 @@
       127,
       137
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       64,
       29,
@@ -2896,7 +2896,7 @@
       340,
       347
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       80,
       0,
@@ -2930,7 +2930,7 @@
       304,
       306
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       100,
       15,
@@ -2956,7 +2956,7 @@
       193,
       328
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       86,
       22,
@@ -2982,7 +2982,7 @@
       216,
       293
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       75,
       21,
@@ -3009,7 +3009,7 @@
       306,
       316
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       90,
       20,
@@ -3035,7 +3035,7 @@
       299,
       320
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       53,
       28,
@@ -3064,12 +3064,12 @@
       251,
       313
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       87,
-      32,
-      91,
-      18
+      20,
+      100,
+      10
     ],
     "lab": [
       42.738994430457005,
@@ -3096,7 +3096,7 @@
       341,
       348
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       76,
       32,
@@ -3125,7 +3125,7 @@
       280,
       290
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       60,
       48,
@@ -3151,7 +3151,7 @@
       318,
       336
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       56,
       32,
@@ -3184,7 +3184,7 @@
       342,
       348
     ],
-    "swatch": 2,
+    "index-chapter": 3,
     "cmyk": [
       76,
       60,
@@ -3214,7 +3214,7 @@
       330,
       345
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       25,
       0,
@@ -3234,7 +3234,7 @@
     "hex": "#bce4e5"
   },
   {
-    "name": "Pale King's Blue",
+    "name": "Pale King’s Blue",
     "combinations": [
       16,
       49,
@@ -3246,7 +3246,7 @@
       234,
       287
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       33,
       4,
@@ -3279,7 +3279,7 @@
       339,
       341
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       35,
       10,
@@ -3315,7 +3315,7 @@
       321,
       330
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       41,
       25,
@@ -3350,7 +3350,7 @@
       308,
       333
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       42,
       0,
@@ -3370,7 +3370,7 @@
     "hex": "#96d1aa"
   },
   {
-    "name": "Calamine BLue",
+    "name": "Calamine Blue",
     "combinations": [
       20,
       41,
@@ -3383,7 +3383,7 @@
       291,
       300
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       50,
       0,
@@ -3412,7 +3412,7 @@
       283,
       345
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       58,
       0,
@@ -3443,7 +3443,7 @@
       240,
       264
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       84,
       26,
@@ -3468,7 +3468,7 @@
       131,
       286
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       100,
       19,
@@ -3500,7 +3500,7 @@
       271,
       330
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       82,
       24,
@@ -3530,7 +3530,7 @@
       274,
       324
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       69,
       44,
@@ -3565,7 +3565,7 @@
       295,
       333
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       95,
       54,
@@ -3601,7 +3601,7 @@
       302,
       334
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       100,
       40,
@@ -3632,7 +3632,7 @@
       312,
       347
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       100,
       62,
@@ -3659,7 +3659,7 @@
       241,
       249
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       70,
       45,
@@ -3690,7 +3690,7 @@
       332,
       338
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       100,
       30,
@@ -3723,7 +3723,7 @@
       314,
       344
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       100,
       85,
@@ -3757,7 +3757,7 @@
       309,
       339
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       85,
       79,
@@ -3777,7 +3777,7 @@
     "hex": "#40456a"
   },
   {
-    "name": "Vandar Poel's Blue",
+    "name": "Vandar Poel’s Blue",
     "combinations": [
       5,
       77,
@@ -3787,7 +3787,7 @@
       309,
       343
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       100,
       73,
@@ -3817,7 +3817,7 @@
       245,
       279
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       90,
       66,
@@ -3848,10 +3848,10 @@
       295,
       331
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
-      95,
-      106,
+      100,
+      90,
       38,
       50
     ],
@@ -3878,7 +3878,7 @@
       211,
       232
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       100,
       92,
@@ -3907,7 +3907,7 @@
       318,
       325
     ],
-    "swatch": 3,
+    "index-chapter": 4,
     "cmyk": [
       80,
       50,
@@ -3937,7 +3937,7 @@
       248,
       307
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       28,
       28,
@@ -3968,7 +3968,7 @@
       329,
       338
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       25,
       33,
@@ -3995,7 +3995,7 @@
       280,
       337
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       20,
       48,
@@ -4022,7 +4022,7 @@
       282,
       347
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       28,
       54,
@@ -4048,7 +4048,7 @@
       315,
       322
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       25,
       79,
@@ -4078,7 +4078,7 @@
       274,
       331
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       43,
       62,
@@ -4112,7 +4112,7 @@
       324,
       344
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       39,
       68,
@@ -4137,7 +4137,7 @@
       9,
       100
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       57,
       60,
@@ -4163,7 +4163,7 @@
       127,
       197
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       70,
       68,
@@ -4191,7 +4191,7 @@
       322,
       345
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       72,
       80,
@@ -4215,7 +4215,7 @@
     "combinations": [
       236
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       38,
       65,
@@ -4241,7 +4241,7 @@
       192,
       218
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       61,
       52,
@@ -4268,7 +4268,7 @@
       168,
       183
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       42,
       78,
@@ -4293,7 +4293,7 @@
       225,
       248
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       64,
       85,
@@ -4323,7 +4323,7 @@
       280,
       288
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       30,
       70,
@@ -4347,7 +4347,7 @@
     "combinations": [
       337
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       64,
       90,
@@ -4382,7 +4382,7 @@
       331,
       335
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       85,
       90,
@@ -4413,7 +4413,7 @@
       183,
       316
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       76,
       100,
@@ -4443,7 +4443,7 @@
       329,
       348
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       66,
       100,
@@ -4472,7 +4472,7 @@
       103,
       314
     ],
-    "swatch": 4,
+    "index-chapter": 5,
     "cmyk": [
       75,
       100,
@@ -4496,7 +4496,7 @@
     "combinations": [
       55
     ],
-    "swatch": 5,
+    "index-chapter": 6,
     "cmyk": [
       0,
       0,
@@ -4531,7 +4531,7 @@
       324,
       340
     ],
-    "swatch": 5,
+    "index-chapter": 6,
     "cmyk": [
       29,
       18,
@@ -4556,7 +4556,7 @@
       11,
       30
     ],
-    "swatch": 5,
+    "index-chapter": 6,
     "cmyk": [
       33,
       18,
@@ -4587,7 +4587,7 @@
       259,
       261
     ],
-    "swatch": 5,
+    "index-chapter": 6,
     "cmyk": [
       37,
       28,
@@ -4623,7 +4623,7 @@
       329,
       335
     ],
-    "swatch": 5,
+    "index-chapter": 6,
     "cmyk": [
       85,
       70,
@@ -4669,7 +4669,7 @@
       340,
       344
     ],
-    "swatch": 5,
+    "index-chapter": 6,
     "cmyk": [
       20,
       10,
