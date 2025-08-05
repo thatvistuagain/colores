@@ -1,12 +1,12 @@
 {
  "swatches_e": [
   {
-    "name": "Grayish Lavender - A",
+    "name": "Grayish Lavender",
     "cmyk": [ 28, 28, 0, 0 ],
     "combinations": [ 8, 15, 159, 177, 218, 248, 307 ]
   },
   {
-    "name": "Grayish Lavender - B",
+    "name": "Grayish Lavender (bis)",
     "cmyk": [ 25, 33, 20, 0 ],
     "combinations": [ 47, 56, 174, 187, 235, 327, 329, 338 ]
   },
